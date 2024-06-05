@@ -1,0 +1,14 @@
+- - apply_b0bio
+  - questions:
+      - label: ا
+        type: short
+      - label: زيزي
+        type: short
+      - label: ريرير
+        type: short
+      - label: يزي
+        type: short
+      - label: زيزي
+        type: short
+    name: ترنز
+    channellogId: "1243283071143247986"

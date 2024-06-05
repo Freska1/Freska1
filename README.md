@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Freska1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Freska1/Freska1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Contact
+**Any bug or suggestion !**
+ - Contact With Me Discord: [`Shuruhatik#2443`](https://github.com/shuruhatik)
+### Server Support
+<a href="https://dsc.gg/shuruhatik"><img src="https://invidget.switchblade.xyz/uGu2sCDZhv"></a>
+
+## License 
+- [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode)
